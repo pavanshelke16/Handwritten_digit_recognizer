@@ -41,7 +41,7 @@ The model is trained for 10 epochs on the MNIST training dataset, achieving an i
 
 ## Files
 
-- **my_model.keras**: Trained model saved in the Hierarchical Data Format (HDF5).
+- **my_model.keras**: Trained model saved in the Keras model format.
 - **ap.py**: Streamlit app for uploading an image and making predictions.
 - **app.py**: Streamlit app for drawing on a canvas and making predictions.
 - **prediction.ipynb**: Jupyter Notebook for model training and exploration.
